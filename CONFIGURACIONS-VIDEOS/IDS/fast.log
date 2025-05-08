@@ -1,0 +1,471 @@
+04/15/2025-17:14:38.260189  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:50006 -> 192.168.100.10:22
+04/15/2025-17:21:26.110067  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:33486 -> 192.168.100.10:256
+04/15/2025-17:21:27.369051  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:33486 -> 192.168.100.10:22
+04/24/2025-10:43:29.340857  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49002 -> 192.168.100.10:22
+04/24/2025-10:43:29.340857  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49002 -> 192.168.100.10:22
+04/24/2025-11:03:26.006426  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:44750 -> 192.168.100.10:22
+04/24/2025-11:03:26.006426  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:44750 -> 192.168.100.10:22
+04/24/2025-11:04:36.313804  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55031 -> 192.168.100.10:143
+04/24/2025-11:04:37.537271  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55031 -> 192.168.100.10:22
+04/24/2025-11:05:09.035757  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:59423 -> 192.168.100.10:22
+04/24/2025-11:05:10.543827  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:59428 -> 192.168.100.10:22
+04/24/2025-11:05:40.143298  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:60936 -> 192.168.100.10:111
+04/24/2025-11:05:40.150337  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:60936 -> 192.168.100.10:22
+04/24/2025-11:14:38.464455  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:34976 -> 192.168.100.10:8888
+04/24/2025-11:14:39.683968  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:34976 -> 192.168.100.10:22
+04/24/2025-11:16:34.264189  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:54059 -> 192.168.100.10:3306
+04/24/2025-11:16:36.296848  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:54059 -> 192.168.100.10:22
+04/24/2025-11:17:57.541435  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:57035 -> 192.168.100.10:21
+04/24/2025-11:17:58.759415  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:57035 -> 192.168.100.10:22
+04/24/2025-11:17:58.859966  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:57037 -> 192.168.100.10:22
+04/29/2025-14:35:50.701177  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52062 -> 192.168.100.10:139
+04/29/2025-14:35:52.130955  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52062 -> 192.168.100.10:22
+04/29/2025-14:35:52.233471  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52064 -> 192.168.100.10:22
+04/29/2025-15:00:29.772584  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:44192 -> 192.168.100.10:80
+04/29/2025-15:21:23.842608  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55484 -> 192.168.100.10:80
+04/29/2025-15:21:23.851208  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55484 -> 192.168.100.10:80
+04/29/2025-15:21:23.842608  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55484 -> 192.168.100.10:80
+04/29/2025-15:21:23.851208  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55484 -> 192.168.100.10:80
+04/29/2025-15:21:24.347551  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55492 -> 192.168.100.10:80
+04/29/2025-15:21:24.347551  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55492 -> 192.168.100.10:80
+04/29/2025-15:21:24.369511  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55504 -> 192.168.100.10:80
+04/29/2025-15:21:24.369511  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55504 -> 192.168.100.10:80
+04/29/2025-15:21:24.383253  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55494 -> 192.168.100.10:80
+04/29/2025-15:21:24.383253  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55494 -> 192.168.100.10:80
+04/29/2025-15:21:24.401199  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55530 -> 192.168.100.10:80
+04/29/2025-15:21:24.401199  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55530 -> 192.168.100.10:80
+04/29/2025-15:21:24.415671  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55516 -> 192.168.100.10:80
+04/29/2025-15:21:24.415671  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55516 -> 192.168.100.10:80
+04/29/2025-15:21:24.496937  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55532 -> 192.168.100.10:80
+04/29/2025-15:21:24.496937  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55532 -> 192.168.100.10:80
+04/29/2025-15:21:24.511731  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55544 -> 192.168.100.10:80
+04/29/2025-15:21:24.511731  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55544 -> 192.168.100.10:80
+04/29/2025-15:21:24.531120  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55542 -> 192.168.100.10:80
+04/29/2025-15:21:24.531120  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55542 -> 192.168.100.10:80
+04/29/2025-15:21:24.546375  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55550 -> 192.168.100.10:80
+04/29/2025-15:21:24.546375  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55550 -> 192.168.100.10:80
+04/29/2025-15:21:24.557284  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55560 -> 192.168.100.10:80
+04/29/2025-15:21:24.557284  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55560 -> 192.168.100.10:80
+04/29/2025-15:21:24.564212  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55554 -> 192.168.100.10:80
+04/29/2025-15:21:24.564212  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55554 -> 192.168.100.10:80
+04/29/2025-15:21:24.583246  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55562 -> 192.168.100.10:80
+04/29/2025-15:21:24.583246  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55562 -> 192.168.100.10:80
+04/29/2025-15:21:24.600544  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55570 -> 192.168.100.10:80
+04/29/2025-15:21:24.600544  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55570 -> 192.168.100.10:80
+04/29/2025-15:21:24.617571  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55576 -> 192.168.100.10:80
+04/29/2025-15:21:24.617571  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55576 -> 192.168.100.10:80
+04/29/2025-15:21:24.627448  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55590 -> 192.168.100.10:80
+04/29/2025-15:21:24.627448  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55590 -> 192.168.100.10:80
+04/29/2025-15:21:24.638487  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55604 -> 192.168.100.10:80
+04/29/2025-15:21:24.638487  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55604 -> 192.168.100.10:80
+04/29/2025-15:21:24.651763  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55634 -> 192.168.100.10:80
+04/29/2025-15:21:24.651763  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55634 -> 192.168.100.10:80
+04/29/2025-15:21:24.669333  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55620 -> 192.168.100.10:80
+04/29/2025-15:21:24.669333  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55620 -> 192.168.100.10:80
+04/29/2025-15:21:24.687003  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55636 -> 192.168.100.10:80
+04/29/2025-15:21:24.687003  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55636 -> 192.168.100.10:80
+04/29/2025-15:21:24.705689  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55640 -> 192.168.100.10:80
+04/29/2025-15:21:24.705689  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55640 -> 192.168.100.10:80
+04/29/2025-15:21:24.724469  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55638 -> 192.168.100.10:80
+04/29/2025-15:21:24.724469  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55638 -> 192.168.100.10:80
+04/29/2025-15:21:24.736546  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55644 -> 192.168.100.10:80
+04/29/2025-15:21:24.736546  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55644 -> 192.168.100.10:80
+04/29/2025-15:21:24.750512  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55646 -> 192.168.100.10:80
+04/29/2025-15:21:24.750512  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55646 -> 192.168.100.10:80
+04/29/2025-15:21:24.762123  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55660 -> 192.168.100.10:80
+04/29/2025-15:21:24.762123  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55660 -> 192.168.100.10:80
+04/29/2025-15:21:24.774447  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55662 -> 192.168.100.10:80
+04/29/2025-15:21:24.774447  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55662 -> 192.168.100.10:80
+04/29/2025-15:21:24.784732  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55666 -> 192.168.100.10:80
+04/29/2025-15:21:24.784732  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55666 -> 192.168.100.10:80
+04/29/2025-15:21:24.794845  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55668 -> 192.168.100.10:80
+04/29/2025-15:21:24.794845  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55668 -> 192.168.100.10:80
+04/29/2025-15:21:24.808394  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55670 -> 192.168.100.10:80
+04/29/2025-15:21:24.808394  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55670 -> 192.168.100.10:80
+04/29/2025-15:21:24.820182  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55680 -> 192.168.100.10:80
+04/29/2025-15:21:24.820182  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55680 -> 192.168.100.10:80
+04/29/2025-15:21:24.833326  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55696 -> 192.168.100.10:80
+04/29/2025-15:21:24.833326  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55696 -> 192.168.100.10:80
+04/29/2025-15:21:24.845294  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55684 -> 192.168.100.10:80
+04/29/2025-15:21:24.845294  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55684 -> 192.168.100.10:80
+04/29/2025-15:21:24.858161  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55716 -> 192.168.100.10:80
+04/29/2025-15:21:24.858161  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55716 -> 192.168.100.10:80
+04/29/2025-15:21:24.871797  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55712 -> 192.168.100.10:80
+04/29/2025-15:21:24.871797  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55712 -> 192.168.100.10:80
+04/29/2025-15:21:24.883085  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55718 -> 192.168.100.10:80
+04/29/2025-15:21:24.883085  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55718 -> 192.168.100.10:80
+04/29/2025-15:21:24.892844  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55720 -> 192.168.100.10:80
+04/29/2025-15:21:24.892844  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55720 -> 192.168.100.10:80
+04/29/2025-15:21:24.903283  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55728 -> 192.168.100.10:80
+04/29/2025-15:21:24.903283  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55728 -> 192.168.100.10:80
+04/29/2025-15:21:24.913523  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55734 -> 192.168.100.10:80
+04/29/2025-15:21:24.913523  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55734 -> 192.168.100.10:80
+04/29/2025-15:21:24.925954  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55764 -> 192.168.100.10:80
+04/29/2025-15:21:24.925954  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55764 -> 192.168.100.10:80
+04/29/2025-15:21:24.934547  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55748 -> 192.168.100.10:80
+04/29/2025-15:21:24.934547  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55748 -> 192.168.100.10:80
+04/29/2025-15:21:24.941840  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55766 -> 192.168.100.10:80
+04/29/2025-15:21:24.941840  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55766 -> 192.168.100.10:80
+04/29/2025-15:21:24.950377  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55784 -> 192.168.100.10:80
+04/29/2025-15:21:24.950377  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55784 -> 192.168.100.10:80
+04/29/2025-15:21:24.957071  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55774 -> 192.168.100.10:80
+04/29/2025-15:21:24.957071  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55774 -> 192.168.100.10:80
+04/29/2025-15:21:24.964884  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55788 -> 192.168.100.10:80
+04/29/2025-15:21:24.964884  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55788 -> 192.168.100.10:80
+04/29/2025-15:21:24.973280  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55800 -> 192.168.100.10:80
+04/29/2025-15:21:24.973280  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55800 -> 192.168.100.10:80
+04/29/2025-15:21:24.980140  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55810 -> 192.168.100.10:80
+04/29/2025-15:21:24.980140  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55810 -> 192.168.100.10:80
+04/29/2025-15:21:24.989156  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55816 -> 192.168.100.10:80
+04/29/2025-15:21:24.989156  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55816 -> 192.168.100.10:80
+04/29/2025-15:21:24.999331  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55820 -> 192.168.100.10:80
+04/29/2025-15:21:24.999331  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55820 -> 192.168.100.10:80
+04/29/2025-15:21:25.007500  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55836 -> 192.168.100.10:80
+04/29/2025-15:21:25.007500  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55836 -> 192.168.100.10:80
+04/29/2025-15:21:25.016392  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55850 -> 192.168.100.10:80
+04/29/2025-15:21:25.016392  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55850 -> 192.168.100.10:80
+04/29/2025-15:21:25.024191  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55866 -> 192.168.100.10:80
+04/29/2025-15:21:25.024191  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55866 -> 192.168.100.10:80
+04/29/2025-15:21:25.034852  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55880 -> 192.168.100.10:80
+04/29/2025-15:21:25.034852  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55880 -> 192.168.100.10:80
+04/29/2025-15:21:25.042159  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55874 -> 192.168.100.10:80
+04/29/2025-15:21:25.042159  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55874 -> 192.168.100.10:80
+04/29/2025-15:21:25.049748  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55890 -> 192.168.100.10:80
+04/29/2025-15:21:25.049748  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55890 -> 192.168.100.10:80
+04/29/2025-15:21:25.059136  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55894 -> 192.168.100.10:80
+04/29/2025-15:21:25.059136  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55894 -> 192.168.100.10:80
+04/29/2025-15:21:25.066794  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55906 -> 192.168.100.10:80
+04/29/2025-15:21:25.066794  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55906 -> 192.168.100.10:80
+04/29/2025-15:21:25.077277  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55918 -> 192.168.100.10:80
+04/29/2025-15:21:25.077277  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55918 -> 192.168.100.10:80
+04/29/2025-15:21:25.086163  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55920 -> 192.168.100.10:80
+04/29/2025-15:21:25.086163  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55920 -> 192.168.100.10:80
+04/29/2025-15:21:25.093933  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55928 -> 192.168.100.10:80
+04/29/2025-15:21:25.093933  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55928 -> 192.168.100.10:80
+04/29/2025-15:21:25.101933  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55946 -> 192.168.100.10:80
+04/29/2025-15:21:25.101933  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55946 -> 192.168.100.10:80
+04/29/2025-15:21:25.108238  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55944 -> 192.168.100.10:80
+04/29/2025-15:21:25.108238  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55944 -> 192.168.100.10:80
+04/29/2025-15:21:25.116122  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55952 -> 192.168.100.10:80
+04/29/2025-15:21:25.116122  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55952 -> 192.168.100.10:80
+04/29/2025-15:21:25.122592  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55960 -> 192.168.100.10:80
+04/29/2025-15:21:25.122592  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55960 -> 192.168.100.10:80
+04/29/2025-15:21:25.130633  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55980 -> 192.168.100.10:80
+04/29/2025-15:21:25.130633  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55980 -> 192.168.100.10:80
+04/29/2025-15:21:25.138281  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55972 -> 192.168.100.10:80
+04/29/2025-15:21:25.138281  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55972 -> 192.168.100.10:80
+04/29/2025-15:21:25.146210  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55992 -> 192.168.100.10:80
+04/29/2025-15:21:25.146210  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55992 -> 192.168.100.10:80
+04/29/2025-15:21:25.156451  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56010 -> 192.168.100.10:80
+04/29/2025-15:21:25.156451  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56010 -> 192.168.100.10:80
+04/29/2025-15:21:25.164386  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56004 -> 192.168.100.10:80
+04/29/2025-15:21:25.164386  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56004 -> 192.168.100.10:80
+04/29/2025-15:21:25.171845  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56024 -> 192.168.100.10:80
+04/29/2025-15:21:25.171845  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56024 -> 192.168.100.10:80
+04/29/2025-15:21:25.181139  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56040 -> 192.168.100.10:80
+04/29/2025-15:21:25.181139  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56040 -> 192.168.100.10:80
+04/29/2025-15:21:25.188616  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56042 -> 192.168.100.10:80
+04/29/2025-15:21:25.188616  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56042 -> 192.168.100.10:80
+04/29/2025-15:21:25.199656  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56052 -> 192.168.100.10:80
+04/29/2025-15:21:25.199656  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56052 -> 192.168.100.10:80
+04/29/2025-15:21:25.208581  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56056 -> 192.168.100.10:80
+04/29/2025-15:21:25.208581  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56056 -> 192.168.100.10:80
+04/29/2025-15:21:25.215657  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56068 -> 192.168.100.10:80
+04/29/2025-15:21:25.215657  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56068 -> 192.168.100.10:80
+04/29/2025-15:21:25.223448  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56070 -> 192.168.100.10:80
+04/29/2025-15:21:25.223448  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56070 -> 192.168.100.10:80
+04/29/2025-15:21:25.232694  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56074 -> 192.168.100.10:80
+04/29/2025-15:21:25.232694  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56074 -> 192.168.100.10:80
+04/29/2025-15:24:39.393705  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:44482 -> 192.168.100.10:80
+04/29/2025-15:24:51.593129  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:32836 -> 192.168.100.10:80
+04/30/2025-13:19:55.212670  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55704 -> 192.168.100.10:5432
+04/30/2025-13:20:58.558892  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:40980 -> 192.168.100.10:5432
+04/30/2025-13:23:41.870731  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:40370 -> 192.168.100.10:5432
+04/30/2025-14:03:33.296465  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:46254 -> 192.168.100.10:5432
+04/30/2025-14:03:33.296465  [**] [1:1000006:1] AARON: Possible força bruta a PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:46216 -> 192.168.100.10:5432
+04/30/2025-14:07:12.038333  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38540 -> 192.168.100.10:993
+04/30/2025-14:07:13.255281  [**] [1:1000001:1] AARON: Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38540 -> 192.168.100.10:22
+04/30/2025-14:07:35.596270  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38346 -> 192.168.100.10:80
+04/30/2025-14:07:36.085430  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38348 -> 192.168.100.10:80
+04/30/2025-14:07:36.108679  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38364 -> 192.168.100.10:80
+04/30/2025-14:07:36.123271  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38370 -> 192.168.100.10:80
+04/30/2025-14:07:36.140316  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38390 -> 192.168.100.10:80
+04/30/2025-14:07:36.152514  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38384 -> 192.168.100.10:80
+04/30/2025-14:07:36.226860  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38392 -> 192.168.100.10:80
+04/30/2025-14:07:36.242977  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38416 -> 192.168.100.10:80
+04/30/2025-14:07:36.258123  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38406 -> 192.168.100.10:80
+04/30/2025-14:07:36.274425  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38432 -> 192.168.100.10:80
+04/30/2025-14:07:36.280835  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38420 -> 192.168.100.10:80
+04/30/2025-14:07:36.288550  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38442 -> 192.168.100.10:80
+04/30/2025-14:07:36.297764  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38446 -> 192.168.100.10:80
+04/30/2025-14:07:36.304731  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38452 -> 192.168.100.10:80
+04/30/2025-14:07:36.314206  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38468 -> 192.168.100.10:80
+04/30/2025-14:07:36.320101  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38480 -> 192.168.100.10:80
+04/30/2025-14:07:36.331898  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38488 -> 192.168.100.10:80
+04/30/2025-14:07:36.342904  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38486 -> 192.168.100.10:80
+04/30/2025-14:07:36.359363  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38494 -> 192.168.100.10:80
+04/30/2025-14:07:36.370755  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38500 -> 192.168.100.10:80
+04/30/2025-14:07:36.384343  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38516 -> 192.168.100.10:80
+04/30/2025-14:07:36.390763  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38532 -> 192.168.100.10:80
+04/30/2025-14:07:36.400196  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38540 -> 192.168.100.10:80
+04/30/2025-14:07:36.414894  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38566 -> 192.168.100.10:80
+04/30/2025-14:07:36.423732  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38556 -> 192.168.100.10:80
+04/30/2025-14:07:36.434191  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38572 -> 192.168.100.10:80
+04/30/2025-14:07:36.443239  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38590 -> 192.168.100.10:80
+04/30/2025-14:07:36.452960  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38576 -> 192.168.100.10:80
+04/30/2025-14:07:36.465387  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38592 -> 192.168.100.10:80
+04/30/2025-14:07:36.478296  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38602 -> 192.168.100.10:80
+04/30/2025-14:07:36.493208  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38612 -> 192.168.100.10:80
+04/30/2025-14:07:36.501889  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38620 -> 192.168.100.10:80
+04/30/2025-14:07:36.510865  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38632 -> 192.168.100.10:80
+04/30/2025-14:07:36.522420  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38654 -> 192.168.100.10:80
+04/30/2025-14:07:36.536656  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38646 -> 192.168.100.10:80
+04/30/2025-14:07:36.544238  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38664 -> 192.168.100.10:80
+04/30/2025-14:07:36.550712  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38672 -> 192.168.100.10:80
+04/30/2025-14:07:36.557847  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38684 -> 192.168.100.10:80
+04/30/2025-14:07:36.566328  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38700 -> 192.168.100.10:80
+04/30/2025-14:07:36.575379  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38706 -> 192.168.100.10:80
+04/30/2025-14:07:36.583295  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38720 -> 192.168.100.10:80
+04/30/2025-14:07:36.593115  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38750 -> 192.168.100.10:80
+04/30/2025-14:07:36.599910  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38736 -> 192.168.100.10:80
+04/30/2025-14:07:36.609230  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38764 -> 192.168.100.10:80
+04/30/2025-14:07:36.615349  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38776 -> 192.168.100.10:80
+04/30/2025-14:07:36.622157  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38784 -> 192.168.100.10:80
+04/30/2025-14:07:36.628164  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38792 -> 192.168.100.10:80
+04/30/2025-14:07:36.637502  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38798 -> 192.168.100.10:80
+04/30/2025-14:07:36.644192  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38812 -> 192.168.100.10:80
+04/30/2025-14:07:36.651548  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38820 -> 192.168.100.10:80
+04/30/2025-14:07:36.660080  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38834 -> 192.168.100.10:80
+04/30/2025-14:07:36.668030  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38824 -> 192.168.100.10:80
+04/30/2025-14:07:36.675201  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38846 -> 192.168.100.10:80
+04/30/2025-14:07:36.681803  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38840 -> 192.168.100.10:80
+04/30/2025-14:07:36.688651  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38858 -> 192.168.100.10:80
+04/30/2025-14:07:36.694985  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38850 -> 192.168.100.10:80
+04/30/2025-14:07:36.703508  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38868 -> 192.168.100.10:80
+04/30/2025-14:07:36.709189  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38876 -> 192.168.100.10:80
+04/30/2025-14:07:36.715839  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38894 -> 192.168.100.10:80
+04/30/2025-14:07:36.724155  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38882 -> 192.168.100.10:80
+04/30/2025-14:07:36.730488  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38920 -> 192.168.100.10:80
+04/30/2025-14:07:36.736818  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38908 -> 192.168.100.10:80
+04/30/2025-14:07:36.742649  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38942 -> 192.168.100.10:80
+04/30/2025-14:07:36.748285  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38930 -> 192.168.100.10:80
+04/30/2025-14:07:36.755544  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38954 -> 192.168.100.10:80
+04/30/2025-14:07:36.760845  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38964 -> 192.168.100.10:80
+04/30/2025-14:07:36.768119  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38966 -> 192.168.100.10:80
+04/30/2025-14:07:36.774874  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38980 -> 192.168.100.10:80
+04/30/2025-14:07:36.781224  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38994 -> 192.168.100.10:80
+04/30/2025-14:07:36.788225  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38988 -> 192.168.100.10:80
+04/30/2025-14:07:36.794929  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:39000 -> 192.168.100.10:80
+04/30/2025-14:07:36.804932  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38996 -> 192.168.100.10:80
+04/30/2025-14:07:36.812152  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:39016 -> 192.168.100.10:80
+04/30/2025-14:07:36.819082  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:39018 -> 192.168.100.10:80
+04/30/2025-14:07:36.825518  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:39026 -> 192.168.100.10:80
+04/30/2025-14:07:36.832014  [**] [1:1000004:1] AARON: SQLmap detectat (User-Agent) [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:39030 -> 192.168.100.10:80
+04/30/2025-14:35:04.834776  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:61124 -> 192.168.100.10:111
+04/30/2025-14:35:04.834777  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:61124 -> 192.168.100.10:995
+04/30/2025-14:36:04.881057  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:61197 -> 192.168.100.10:111
+04/30/2025-14:36:14.294895  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:43752 -> 192.168.100.10:80
+04/30/2025-14:36:14.828435  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:43766 -> 192.168.100.10:80
+04/30/2025-14:36:14.853666  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:43770 -> 192.168.100.10:80
+04/30/2025-14:37:27.774070  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36812 -> 192.168.100.10:5432
+04/30/2025-14:37:27.776180  [Drop] [**] [1:1000011:1] AARON: Força bruta PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36842 -> 192.168.100.10:5432
+04/30/2025-14:37:27.776181  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36848 -> 192.168.100.10:5432
+04/30/2025-14:37:27.776181  [**] [1:1000006:1] AARON: Possible força bruta a PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36848 -> 192.168.100.10:5432
+04/30/2025-14:38:41.611872  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45850 -> 192.168.100.10:5432
+04/30/2025-14:38:41.611938  [Drop] [**] [1:1000011:1] AARON: Força bruta PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45972 -> 192.168.100.10:5432
+04/30/2025-14:38:41.611938  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45972 -> 192.168.100.10:5432
+04/30/2025-14:38:41.611938  [**] [1:1000006:1] AARON: Possible força bruta a PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45972 -> 192.168.100.10:5432
+04/30/2025-14:39:51.237104  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:46010 -> 192.168.100.10:5432
+04/30/2025-14:39:51.298149  [Drop] [**] [1:1000011:1] AARON: Força bruta PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36350 -> 192.168.100.10:5432
+04/30/2025-14:39:51.298149  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36350 -> 192.168.100.10:5432
+04/30/2025-14:39:51.298149  [**] [1:1000006:1] AARON: Possible força bruta a PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36350 -> 192.168.100.10:5432
+04/30/2025-14:39:51.307951  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.20:46024 -> 192.168.100.10:5432
+04/30/2025-14:39:51.307951  [**] [1:2210046:2] SURICATA STREAM SHUTDOWN RST invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.20:46024 -> 192.168.100.10:5432
+04/30/2025-14:41:00.885208  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36384 -> 192.168.100.10:5432
+04/30/2025-14:41:00.918953  [Drop] [**] [1:1000011:1] AARON: Força bruta PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:44094 -> 192.168.100.10:5432
+04/30/2025-14:41:00.918953  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:44094 -> 192.168.100.10:5432
+04/30/2025-14:41:00.918953  [**] [1:1000006:1] AARON: Possible força bruta a PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:44094 -> 192.168.100.10:5432
+04/30/2025-14:42:05.038314  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38842 -> 192.168.100.10:5432
+04/30/2025-14:42:05.142980  [Drop] [**] [1:1000011:1] AARON: Força bruta PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38892 -> 192.168.100.10:5432
+04/30/2025-14:42:05.142980  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38892 -> 192.168.100.10:5432
+04/30/2025-14:42:05.142980  [**] [1:1000006:1] AARON: Possible força bruta a PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38892 -> 192.168.100.10:5432
+04/30/2025-14:43:37.076259  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:51118 -> 192.168.100.10:80
+04/30/2025-14:43:37.077646  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:51118 -> 192.168.100.10:80
+04/30/2025-14:43:37.576427  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:51126 -> 192.168.100.10:80
+04/30/2025-14:43:37.596177  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:51128 -> 192.168.100.10:80
+04/30/2025-14:43:37.609875  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:51130 -> 192.168.100.10:80
+04/30/2025-14:43:37.621233  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:51136 -> 192.168.100.10:80
+04/30/2025-14:44:37.957978  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:50716 -> 192.168.100.10:80
+04/30/2025-14:44:37.983880  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:50732 -> 192.168.100.10:80
+04/30/2025-14:44:37.997238  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:50716 -> 192.168.100.10:80
+04/30/2025-14:44:38.079174  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:50748 -> 192.168.100.10:80
+04/30/2025-14:44:38.093239  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:50768 -> 192.168.100.10:80
+04/30/2025-14:45:08.138206  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:50760 -> 192.168.100.10:80
+04/30/2025-14:45:38.190260  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52530 -> 192.168.100.10:80
+04/30/2025-14:45:38.195966  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52530 -> 192.168.100.10:80
+04/30/2025-14:45:38.212870  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52554 -> 192.168.100.10:80
+04/30/2025-14:45:38.222788  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52540 -> 192.168.100.10:80
+04/30/2025-14:45:38.233455  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52570 -> 192.168.100.10:80
+04/30/2025-14:45:38.240077  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52580 -> 192.168.100.10:80
+04/30/2025-14:46:21.326793  [Drop] [**] [1:1000011:1] AARON: Força bruta PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:60604 -> 192.168.100.10:5432
+04/30/2025-14:46:21.326793  [**] [1:1000006:1] AARON: Possible força bruta a PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:60604 -> 192.168.100.10:5432
+04/30/2025-14:47:15.132665  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47124 -> 192.168.100.10:5432
+04/30/2025-14:47:15.132666  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47194 -> 192.168.100.10:5432
+04/30/2025-14:47:22.313985  [Drop] [**] [1:1000011:1] AARON: Força bruta PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47194 -> 192.168.100.10:5432
+04/30/2025-14:47:22.313985  [**] [1:1000006:1] AARON: Possible força bruta a PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47194 -> 192.168.100.10:5432
+04/30/2025-14:48:23.149508  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:48036 -> 192.168.100.10:80
+04/30/2025-14:48:23.155513  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:48044 -> 192.168.100.10:80
+04/30/2025-14:48:23.253621  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:48036 -> 192.168.100.10:80
+04/30/2025-14:48:23.274338  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:54446 -> 192.168.100.10:80
+04/30/2025-14:48:23.282904  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:54432 -> 192.168.100.10:80
+04/30/2025-14:48:23.283843  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:54456 -> 192.168.100.10:80
+04/30/2025-14:49:23.420737  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36228 -> 192.168.100.10:80
+04/30/2025-14:49:23.429138  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36228 -> 192.168.100.10:80
+04/30/2025-14:49:23.514098  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36244 -> 192.168.100.10:80
+04/30/2025-14:49:23.528519  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36260 -> 192.168.100.10:80
+04/30/2025-14:49:23.541316  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36276 -> 192.168.100.10:80
+04/30/2025-14:49:23.551014  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36282 -> 192.168.100.10:80
+04/30/2025-14:50:23.763599  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36440 -> 192.168.100.10:80
+04/30/2025-14:50:23.765148  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36440 -> 192.168.100.10:80
+04/30/2025-14:50:23.780935  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36442 -> 192.168.100.10:80
+04/30/2025-14:50:23.791918  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36460 -> 192.168.100.10:80
+04/30/2025-14:50:23.803047  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36472 -> 192.168.100.10:80
+04/30/2025-14:50:23.803047  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:36446 -> 192.168.100.10:80
+04/30/2025-14:51:23.895852  [**] [1:1000002:1] AARON: ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56744 -> 192.168.100.10:80
+04/30/2025-14:51:23.897663  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56744 -> 192.168.100.10:80
+04/30/2025-14:51:23.907557  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56770 -> 192.168.100.10:80
+04/30/2025-14:51:23.921098  [**] [1:1000014:0] AARON: POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56760 -> 192.168.100.10:80
+04/30/2025-14:51:23.931857  [Drop] [**] [1:1000012:1] AARON: Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:56784 -> 192.168.100.10:80
+04/30/2025-14:55:37.208419  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:37977 -> 192.168.100.10:587
+04/30/2025-14:55:37.208606  [Drop] [**] [1:1000012:1] AARON(PROTEGIT): Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:37977 -> 192.168.100.10:993
+04/30/2025-14:56:37.843585  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38914 -> 192.168.100.10:80
+04/30/2025-14:56:37.910054  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38914 -> 192.168.100.10:80
+04/30/2025-14:56:37.992799  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38926 -> 192.168.100.10:80
+04/30/2025-14:56:38.015174  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38938 -> 192.168.100.10:80
+04/30/2025-14:56:38.028294  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38942 -> 192.168.100.10:80
+04/30/2025-14:56:38.038913  [Drop] [**] [1:1000012:1] AARON(PROTEGIT): Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38946 -> 192.168.100.10:80
+04/30/2025-14:57:38.128811  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:40694 -> 192.168.100.10:80
+04/30/2025-14:57:38.131914  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:40694 -> 192.168.100.10:80
+04/30/2025-14:57:38.216997  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:40698 -> 192.168.100.10:80
+04/30/2025-14:57:38.237581  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:40722 -> 192.168.100.10:80
+04/30/2025-14:57:38.252167  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:40706 -> 192.168.100.10:80
+04/30/2025-14:57:38.269141  [Drop] [**] [1:1000012:1] AARON(PROTEGIT): Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:40738 -> 192.168.100.10:80
+04/30/2025-14:59:46.771785  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38940 -> 192.168.100.10:80
+04/30/2025-14:59:46.773037  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38940 -> 192.168.100.10:80
+04/30/2025-14:59:47.293179  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38946 -> 192.168.100.10:80
+04/30/2025-14:59:47.313947  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38954 -> 192.168.100.10:80
+04/30/2025-14:59:47.326726  [Drop] [**] [1:1000012:1] AARON(PROTEGIT): Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:38972 -> 192.168.100.10:80
+04/30/2025-15:00:23.265461  [Drop] [**] [1:1000011:1] AARON(PROTEGIT): Força bruta PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:41414 -> 192.168.100.10:5432
+04/30/2025-15:00:23.265461  [**] [1:1000006:1] AARON(ALERTA): Possible força bruta a PostgreSQL [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:41414 -> 192.168.100.10:5432
+04/30/2025-16:33:50.150419  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49550 -> 192.168.100.10:80
+04/30/2025-16:33:50.151668  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49550 -> 192.168.100.10:80
+04/30/2025-16:33:50.652417  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49556 -> 192.168.100.10:80
+04/30/2025-16:33:50.679968  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49574 -> 192.168.100.10:80
+04/30/2025-16:33:50.690191  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49572 -> 192.168.100.10:80
+04/30/2025-16:33:50.699857  [Drop] [**] [1:1000012:1] AARON(PROTEGIT): Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49588 -> 192.168.100.10:80
+04/30/2025-16:34:50.850414  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:59162 -> 192.168.100.10:80
+04/30/2025-16:34:50.878875  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:59178 -> 192.168.100.10:80
+04/30/2025-16:34:50.894994  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:59162 -> 192.168.100.10:80
+04/30/2025-16:34:50.996361  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:59180 -> 192.168.100.10:80
+04/30/2025-16:34:51.012825  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:59184 -> 192.168.100.10:80
+04/30/2025-16:34:51.026377  [Drop] [**] [1:1000012:1] AARON(PROTEGIT): Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:59190 -> 192.168.100.10:80
+04/30/2025-16:39:20.881454  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:48144 -> 192.168.100.10:80
+04/30/2025-16:39:20.883150  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:48144 -> 192.168.100.10:80
+04/30/2025-16:39:21.385132  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:48146 -> 192.168.100.10:80
+04/30/2025-16:39:21.410085  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55008 -> 192.168.100.10:80
+04/30/2025-16:39:21.429454  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55022 -> 192.168.100.10:80
+04/30/2025-16:39:21.445901  [Drop] [**] [1:1000012:1] AARON(PROTEGIT): Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:55028 -> 192.168.100.10:80
+04/30/2025-16:40:21.584440  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49528 -> 192.168.100.10:80
+04/30/2025-16:40:21.640162  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49528 -> 192.168.100.10:80
+04/30/2025-16:40:21.650418  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49544 -> 192.168.100.10:80
+04/30/2025-16:40:21.734041  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49546 -> 192.168.100.10:80
+04/30/2025-16:40:21.751835  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49556 -> 192.168.100.10:80
+04/30/2025-16:40:21.762868  [Drop] [**] [1:1000012:1] AARON(PROTEGIT): Escaneig Nmap -sS bloquejat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:49570 -> 192.168.100.10:80
+04/30/2025-16:43:56.637988  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45212 -> 192.168.100.10:80
+04/30/2025-16:43:56.641333  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45212 -> 192.168.100.10:80
+04/30/2025-16:43:57.138802  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45226 -> 192.168.100.10:80
+04/30/2025-16:43:57.163080  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45232 -> 192.168.100.10:80
+04/30/2025-16:43:57.179019  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45240 -> 192.168.100.10:80
+04/30/2025-16:43:57.193687  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45260 -> 192.168.100.10:80
+04/30/2025-16:43:57.209936  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45244 -> 192.168.100.10:80
+04/30/2025-16:43:57.302339  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45276 -> 192.168.100.10:80
+04/30/2025-16:43:57.317459  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45296 -> 192.168.100.10:80
+04/30/2025-16:43:57.332534  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45284 -> 192.168.100.10:80
+04/30/2025-16:43:57.350428  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45320 -> 192.168.100.10:80
+04/30/2025-16:43:57.364779  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45304 -> 192.168.100.10:80
+04/30/2025-16:43:57.377004  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45342 -> 192.168.100.10:80
+04/30/2025-16:43:57.382905  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45334 -> 192.168.100.10:80
+04/30/2025-16:43:57.390191  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45360 -> 192.168.100.10:80
+04/30/2025-16:43:57.403431  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45356 -> 192.168.100.10:80
+04/30/2025-16:43:57.411598  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45370 -> 192.168.100.10:80
+04/30/2025-16:43:57.419277  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45386 -> 192.168.100.10:80
+04/30/2025-16:43:57.428092  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45402 -> 192.168.100.10:80
+04/30/2025-16:43:57.446522  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45404 -> 192.168.100.10:80
+04/30/2025-16:43:57.457949  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45408 -> 192.168.100.10:80
+04/30/2025-16:43:57.467442  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45430 -> 192.168.100.10:80
+04/30/2025-16:43:57.482934  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45414 -> 192.168.100.10:80
+04/30/2025-16:43:57.492269  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45438 -> 192.168.100.10:80
+04/30/2025-16:43:57.508934  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45454 -> 192.168.100.10:80
+04/30/2025-16:43:57.524414  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45484 -> 192.168.100.10:80
+04/30/2025-16:43:57.531220  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45468 -> 192.168.100.10:80
+04/30/2025-16:43:57.537920  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45490 -> 192.168.100.10:80
+04/30/2025-16:43:57.544522  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45506 -> 192.168.100.10:80
+04/30/2025-16:43:57.551843  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45510 -> 192.168.100.10:80
+04/30/2025-16:43:57.559445  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45524 -> 192.168.100.10:80
+04/30/2025-16:43:57.566348  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45536 -> 192.168.100.10:80
+04/30/2025-16:43:57.573586  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45538 -> 192.168.100.10:80
+04/30/2025-16:43:57.580086  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45540 -> 192.168.100.10:80
+04/30/2025-16:43:57.589010  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45546 -> 192.168.100.10:80
+04/30/2025-16:43:57.598265  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45556 -> 192.168.100.10:80
+04/30/2025-16:43:57.614558  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45560 -> 192.168.100.10:80
+04/30/2025-16:43:57.626537  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45564 -> 192.168.100.10:80
+04/30/2025-16:43:57.637584  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45580 -> 192.168.100.10:80
+04/30/2025-16:43:57.650182  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45572 -> 192.168.100.10:80
+04/30/2025-16:43:57.661195  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45584 -> 192.168.100.10:80
+04/30/2025-16:43:57.669036  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45594 -> 192.168.100.10:80
+04/30/2025-16:43:57.679315  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45616 -> 192.168.100.10:80
+04/30/2025-16:43:57.690004  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45604 -> 192.168.100.10:80
+04/30/2025-16:43:57.697381  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45630 -> 192.168.100.10:80
+04/30/2025-16:43:57.707397  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45632 -> 192.168.100.10:80
+04/30/2025-16:43:57.721062  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45638 -> 192.168.100.10:80
+04/30/2025-16:43:57.731048  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45650 -> 192.168.100.10:80
+04/30/2025-16:43:57.741278  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45652 -> 192.168.100.10:80
+04/30/2025-16:43:57.748380  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45654 -> 192.168.100.10:80
+04/30/2025-16:43:57.759909  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45670 -> 192.168.100.10:80
+04/30/2025-16:43:57.767328  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45658 -> 192.168.100.10:80
+04/30/2025-16:43:57.773627  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45684 -> 192.168.100.10:80
+04/30/2025-16:43:57.783688  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45698 -> 192.168.100.10:80
+04/30/2025-16:43:57.792499  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45714 -> 192.168.100.10:80
+04/30/2025-16:43:57.800325  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45728 -> 192.168.100.10:80
+04/30/2025-16:43:57.804240  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45724 -> 192.168.100.10:80
+04/30/2025-16:43:57.811624  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45740 -> 192.168.100.10:80
+04/30/2025-16:43:57.821057  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45730 -> 192.168.100.10:80
+04/30/2025-16:43:57.839520  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45754 -> 192.168.100.10:80
+04/30/2025-16:43:57.845984  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45748 -> 192.168.100.10:80
+04/30/2025-16:43:57.861835  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45764 -> 192.168.100.10:80
+04/30/2025-16:43:57.877962  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45758 -> 192.168.100.10:80
+04/30/2025-16:43:57.892358  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45768 -> 192.168.100.10:80
+04/30/2025-16:43:57.898400  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45774 -> 192.168.100.10:80
+04/30/2025-16:43:57.908731  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45782 -> 192.168.100.10:80
+04/30/2025-16:43:57.918493  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45780 -> 192.168.100.10:80
+04/30/2025-16:43:57.933882  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45794 -> 192.168.100.10:80
+04/30/2025-16:43:57.941857  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45798 -> 192.168.100.10:80
+04/30/2025-16:43:57.950885  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45800 -> 192.168.100.10:80
+04/30/2025-16:43:57.961126  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45802 -> 192.168.100.10:80
+04/30/2025-16:43:57.970578  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45818 -> 192.168.100.10:80
+04/30/2025-16:43:57.983427  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45828 -> 192.168.100.10:80
+04/30/2025-16:43:57.999192  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45838 -> 192.168.100.10:80
+04/30/2025-16:43:58.012605  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45848 -> 192.168.100.10:80
+04/30/2025-16:43:58.023955  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45858 -> 192.168.100.10:80
+04/30/2025-16:43:58.037096  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:45864 -> 192.168.100.10:80
+04/30/2025-16:47:09.696549  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:58540 -> 192.168.100.10:80
+04/30/2025-16:47:09.698471  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:58540 -> 192.168.100.10:80
+04/30/2025-16:47:30.586768  [**] [1:1000014:0] AARON(ALERTA): POSSIBLE SQLmap detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:52654 -> 192.168.100.10:80
+04/30/2025-17:00:04.746468  [Drop] [**] [1:1000030:0] Connexió sospitosa port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:37942 -> 192.168.100.10:80
+04/30/2025-17:00:04.746468  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:37942 -> 192.168.100.10:80
+05/08/2025-14:22:06.119278  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47833 -> 192.168.100.10:23
+05/08/2025-14:22:06.121095  [wDrop] [**] [1:1000030:0] Connexió sospitosa port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47833 -> 192.168.100.10:80
+05/08/2025-14:22:06.119278  [**] [1:1000001:1] AARON(ALERTA): Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47833 -> 192.168.100.10:22
+05/08/2025-14:23:33.607986  [**] [1:1000002:1] AARON(ALERTA): ET SCAN Nmap -sS detectat [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47952 -> 192.168.100.10:993
+05/08/2025-14:23:34.809603  [**] [1:1000001:1] AARON(ALERTA): Connexió sospitosa cap al port SSH [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47952 -> 192.168.100.10:22
+05/08/2025-14:23:34.813621  [wDrop] [**] [1:1000030:0] Connexió sospitosa port 80 [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.20:47952 -> 192.168.100.10:80
